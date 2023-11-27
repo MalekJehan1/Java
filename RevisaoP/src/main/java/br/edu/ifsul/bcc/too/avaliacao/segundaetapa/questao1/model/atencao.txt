@@ -1,0 +1,5 @@
+lado que tiver o losangulo vai a collection.
+
+losangulo fechado, tem que ter um atributo na outra classe
+losangulo aberto nao precisa.
+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
